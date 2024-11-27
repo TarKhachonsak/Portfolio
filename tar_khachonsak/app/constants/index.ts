@@ -1,0 +1,1 @@
+export const HERO_CONTENT = `I am Software Engineering student passionate about enhancing skills in Frontend Development. Proficient in building web interfaces using Next.js and Tailwind CSS, with strong teamwork abilities to deliver high-quality projects.`
