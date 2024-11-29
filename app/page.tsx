@@ -1,5 +1,6 @@
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
+import Technologies from "./component/Technologies";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <div className="container mx-auto px-8">
           <Navbar />
           <Hero />
+          <Technologies />
         </div>
       </div>
     </>
