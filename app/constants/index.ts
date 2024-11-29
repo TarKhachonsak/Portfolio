@@ -11,11 +11,3 @@ export const PROJECTS = [
     technologies: ["React Framework", "Tailwind"],
   },
 ];
-
-export const CONTACT = [
-    {
-      address: "888 AAAA, AAAA, 57123",
-      phoneNo: "999-9999-999",
-      email: "khachonsak117@gmail.com",
-    },
-]
