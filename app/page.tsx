@@ -1,3 +1,4 @@
+import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
 
         <div className="container mx-auto px-8">
           <Navbar />
+          <Hero />
         </div>
       </div>
     </>
