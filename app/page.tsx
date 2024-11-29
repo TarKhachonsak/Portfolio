@@ -1,3 +1,4 @@
+import Contact from "./component/Contact";
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 import Project from "./component/Project";
@@ -19,6 +20,7 @@ export default function Home() {
           <Hero />
           <Technologies />
           <Project />
+          <Contact />
         </div>
       </div>
     </>
